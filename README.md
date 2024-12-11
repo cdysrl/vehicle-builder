@@ -19,7 +19,13 @@
     Run npm i to install any dependencies
 
 ## Usage
-    NA
+    View Screenshare Video to see application in use. Will demonstrate adding a new car, a new truck and a new motorbike. Will demonstrate that only motorbikes can perform the wheelie function, and only trucks can perform the tow function.
+    
+    Creating a new vehicle of each class. Car, Truck, Motorbike. Showing each function the vehicles can perform and which ones will give an error message because the vehicles are not set up to perform the action.
+https://github.com/user-attachments/assets/193f2ee5-85f8-48c5-bc7d-d5a0208266ef
+
+    Selecting an existing vehicle of each class. Showing each function the vehicles can perform an which ones will give an error message because the vehicles are not set up to perform the action.
+https://github.com/user-attachments/assets/28d56ad2-6884-4a51-8c1b-c49838ebe543
 
 ## Contribution
     Please contact via GitHub or e-mail address provided in Questions section
